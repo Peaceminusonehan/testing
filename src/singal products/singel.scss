@@ -1,0 +1,17 @@
+.img2{
+    width: 40%;
+}
+.btn3{
+    border: none;
+    background-color: black;
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    transition:  all 0.5s ease-in;
+    width: 10rem;
+    color: white;
+    &:hover{
+        background-color:lightgrey;
+        color: black;
+    }
+}

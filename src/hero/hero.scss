@@ -1,0 +1,30 @@
+.herocontainer{
+    background-color: lightslategray;
+    padding: 3rem 0;
+  font-family: 'Times New Roman', Times, serif;
+    height: 35rem;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../helpers//istockphoto-1001589046-612x612.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    h3{
+        color: #EDEBDE;
+    }
+    .btns{
+        border: none;
+        background-color: black;
+        padding: 0.3rem;
+        color: white;
+        border-radius: 0.5rem;
+        margin-top: 1rem;
+        transition:  all 0.5s ease-in;
+        &:hover{
+            background-color: lightgrey;
+            color: lightslategrey;
+        }
+    }
+    .col1{
+        margin-top: 10rem;
+        text-align: center;
+    }
+}

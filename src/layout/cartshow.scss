@@ -1,0 +1,24 @@
+.cartcontainer{
+    padding: 1rem;
+    text-align: center;
+    background-color: white;
+  
+   
+    height:8rem;
+    margin-top: 8rem;
+      button{
+          margin-right: 9px;
+        border: none;
+        background-color: black;
+        padding: 0.3rem;
+        color: white;
+        border-radius: 0.5rem;
+        margin-top: 1rem;
+        transition:  all 0.5s ease-in;
+        &:hover{
+            background-color: lightgrey;
+            color: lightslategrey;
+        }
+      }  
+    }
+

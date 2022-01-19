@@ -1,0 +1,19 @@
+.Nav{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    a{
+        text-decoration: none;
+        color: inherit;
+        font-weight: 600;
+        &:focus,&:hover,&:visited{
+            color: black;
+        }
+    }
+    li{
+        list-style: none;
+        display: inline-block;
+        margin: 0 1rem;
+    }
+}
