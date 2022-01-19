@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/testing/static/css/main.1252a30a.chunk.css",
+    "main.js": "/testing/static/js/main.0d344611.chunk.js",
+    "main.js.map": "/testing/static/js/main.0d344611.chunk.js.map",
+    "runtime-main.js": "/testing/static/js/runtime-main.bba88e05.js",
+    "runtime-main.js.map": "/testing/static/js/runtime-main.bba88e05.js.map",
+    "static/css/2.047300a4.chunk.css": "/testing/static/css/2.047300a4.chunk.css",
+    "static/js/2.0d292020.chunk.js": "/testing/static/js/2.0d292020.chunk.js",
+    "static/js/2.0d292020.chunk.js.map": "/testing/static/js/2.0d292020.chunk.js.map",
+    "index.html": "/testing/index.html",
+    "static/css/2.047300a4.chunk.css.map": "/testing/static/css/2.047300a4.chunk.css.map",
+    "static/css/main.1252a30a.chunk.css.map": "/testing/static/css/main.1252a30a.chunk.css.map",
+    "static/js/2.0d292020.chunk.js.LICENSE.txt": "/testing/static/js/2.0d292020.chunk.js.LICENSE.txt",
+    "static/media/71e4FOdkd2L._AC_UY500_.25d03fcd.jpg": "/testing/static/media/71e4FOdkd2L._AC_UY500_.25d03fcd.jpg",
+    "static/media/Top-10-Travel-Bags-Travel-Bag-Bag-Classic-Pattern-Handbag-L-Bag-Hand-Bag-Ladies-Handbags.4ba3a812.jpg": "/testing/static/media/Top-10-Travel-Bags-Travel-Bag-Bag-Classic-Pattern-Handbag-L-Bag-Hand-Bag-Ladies-Handbags.4ba3a812.jpg",
+    "static/media/ab564419370095f6c76a3361c36d2d8a.ba390086.jpg": "/testing/static/media/ab564419370095f6c76a3361c36d2d8a.ba390086.jpg",
+    "static/media/group_3.5ae65724.png": "/testing/static/media/group_3.5ae65724.png",
+    "static/media/hero.scss": "/testing/static/media/istockphoto-1001589046-612x612.5f46bfcb.jpg",
+    "static/media/istockphoto-1206806317-612x612.41dac6db.jpg": "/testing/static/media/istockphoto-1206806317-612x612.41dac6db.jpg",
+    "static/media/istockphoto-1298646163-612x612.f36f274f.jpg": "/testing/static/media/istockphoto-1298646163-612x612.f36f274f.jpg",
+    "static/media/mila-eve.2b1e45f5.jpg": "/testing/static/media/mila-eve.2b1e45f5.jpg",
+    "static/media/military-style-bag-isolated-white-canvas-backpack-front-view-modern-waterproof-camping-traveler-back-pack-bag-military-211260863.19c9e4af.jpg": "/testing/static/media/military-style-bag-isolated-white-canvas-backpack-front-view-modern-waterproof-camping-traveler-back-pack-bag-military-211260863.19c9e4af.jpg",
+    "static/media/pexels-photo-1152077.e7692605.jpeg": "/testing/static/media/pexels-photo-1152077.e7692605.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bba88e05.js",
+    "static/css/2.047300a4.chunk.css",
+    "static/js/2.0d292020.chunk.js",
+    "static/css/main.1252a30a.chunk.css",
+    "static/js/main.0d344611.chunk.js"
+  ]
+}
